@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+* {
+    margin: 0px;
+}
+
+header {
+    background-color: rgba(121, 201, 134, 0.568);
+    width: auto;
+    height: 100px;
+}
+
+header h1 {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding: 30px;
+}
+
+nav {
+    background-color: rgba(121, 201, 134, 0.568);
+    width: auto;
+    height: 45px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+
+nav a:hover {
+    background-color: rgba(0, 0, 0, 0.089);
+    border-radius: 4px;
+    color: rgba(0, 0, 0, 0.568);
+    transition-duration: .5s;
+}
