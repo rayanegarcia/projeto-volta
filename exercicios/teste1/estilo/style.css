@@ -46,7 +46,7 @@ header nav a:hover {
 }
 
 section {
-    
+    padding: 10px;
 }
 
 section img {
@@ -64,3 +64,4 @@ main {
 main article {
     background-color: white;
 }
+
